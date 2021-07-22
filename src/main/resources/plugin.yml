@@ -1,0 +1,22 @@
+name: OfflinePay
+version: ${project.version}
+main: com.github.huda0209.offlinepay.OfflinePay
+api-version: 1.13
+prefix: OfflinePay
+depend: [ Vault ]
+softdepend: [ Essentials ]
+authors: [ huda0209 ]
+commands:
+  offlinepay:
+    description: OfflinePay plugin command.
+    usage:
+      /<command> mode - toggle plugin mode.
+      /<command> showmode - show plugin mode.
+    aliases:
+      - offpay
+      - opay
+      - offp
+    permission-message: §c You don't have permission!
+permissions:
+  OfflinePay.Admin:
+    default: op
