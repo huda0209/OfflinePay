@@ -12,7 +12,7 @@
 [EssentialsX](https://essentialsx.net/downloads.html)
 
 ## 提供先
-KonohaServer 2021/07/23 (運営)
+KokageServer 2021/07/23 (運営)
 
 ## 作者
 [huda0209](https://github.com/huda0209)
