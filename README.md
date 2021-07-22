@@ -3,6 +3,7 @@
 オフラインでもpayできる！Essentials専用プラグイン
 
 ## コマンド
+`/pay <mcid> <金額>` EssentialXのコマンド参照
 `/offline mode` : このプラグインの機能をトグル式で有効化及び無効化する。<br>
 `/offline showmode` : このプラグインの機能の状態を表示する。<br>
 
